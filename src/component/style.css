@@ -1,0 +1,73 @@
+.todo-input {
+    margin-top: 10px;
+    width: 600px;
+    height: 30px;
+}
+
+.TodoForm {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.des-tit {
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: left;
+    margin-left: 645px;
+    margin-bottom: 0;
+}
+
+.todo-des {
+    margin-top: 0%;
+}
+
+.todo-due {
+    width: 275px;
+    height: 35px;
+}
+
+.todo-pio {
+    width: 275px;
+    height: 40px;
+    margin-left: 50px;
+}
+
+.todo-due1 {
+    width: 275px;
+    height: 35px;
+    font-size: 20px;
+}
+
+.todo-pio1 {
+    width: 230px;
+    height: 40px;
+    margin-left: 50px;
+    font-size: 20px;
+}
+
+
+
+.due-pio {
+    display: flex;
+    justify-content: center;
+
+}
+
+.due-tit{
+    margin-bottom: 0;
+    text-align: left;
+}
+
+.pio-tit{
+    margin-bottom: 0;
+    text-align: left;
+    margin-left: 50px;
+}
+
+.todo-btn{
+    margin-top: 100px;
+    width: 615px;
+    height: 40px;
+    background-color: rgb(105, 218, 105);
+    color: white;
+    font-size: 20px;
+}
